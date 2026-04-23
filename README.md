@@ -22,16 +22,8 @@ Disponível em https://dados.gov.br/dados/conjuntos-dados/procedimentos-hospital
 - [ ] Dashboard no Power BI
 - [ ] Conclusões de negócio
 
-## Estrutura do Projeto
-/projeto-ans
-│── dados/
-│── scripts/
-│── sql/
-│── powerbi/
-│── README.md
-
 ## Status Atual
-Projeto em desenvolvimento.
+Projeto em desenvolvimento, atualmente na etapa de tratamento e estruturação dos dados no SQL Server.
 
 ## Próximos Passos
-Criar modelo dimensional e iniciar análises comparativas entre urgência x eletiva.
+Realizar limpeza dos dados, criar views analíticas e iniciar comparações entre internações de urgência e eletivas.
